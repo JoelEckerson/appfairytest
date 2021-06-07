@@ -8,9 +8,6 @@ Used to work on my group project during my time at Prime
 
 Include one or two screen shots of your project here (optional). Remove if unused.
 
-### Prerequisites
-
-Link to software that is required to install the app (e.g. node).
 
 - [Node.js](https://nodejs.org/en/)
 - List other prerequisites here
